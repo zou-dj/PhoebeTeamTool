@@ -1,13 +1,13 @@
-package com.manageTool;
+package com.HolidayManageSystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ManageToolApplication {
+public class HolidayManageSystemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ManageToolApplication.class, args);
+		SpringApplication.run(HolidayManageSystemApplication.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package com.daito.manageTool;
+package HolidayManageSystem;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class ManageToolApplicationTests {
+public class HolidayManageSystemApplicationTests {
 
 	@Test
 	public void contextLoads() {
